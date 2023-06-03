@@ -1,0 +1,6 @@
+filebeat.inputs:
+- type: log
+  paths:
+    - C:/Users/admin/Downloads/logstash-tutorial-dataset.txt
+output.console:
+  pretty: true

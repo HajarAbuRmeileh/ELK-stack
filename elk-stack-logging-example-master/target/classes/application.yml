@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: ELK-STACK-EXAMPLE
+
+server:
+  port: 9898
+logging:
+  file:
+    name: C:/Users/admin/Downloads/spring-log.txt
